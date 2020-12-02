@@ -18,7 +18,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<title>Engenharia William Teixeira</title>
+	<title>Projeplan Engenharia</title>
 
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 
@@ -62,7 +62,7 @@
 
 						<li class="nav-item active">
 
-							<a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+							<a class="nav-link" href="http://projeplanengenharia.com.br">Inicio <span class="sr-only">(current)</span></a>
 
 						</li>
 
@@ -378,7 +378,7 @@
 
 									<h3><a href="#Contact"> Topografia</a></h3>
 
-									<p>Realizo a topografia do seu terreno.</p>
+									<p>Realizamos a topografia do seu terreno.</p>
 
 								</div>
 
@@ -398,7 +398,7 @@
 
 									<h3><a href="#Contact"> Planta Baixa</a></h3>
 
-									<p>Realizo a planta baixa de sua contrução. </p>
+									<p>Fazemos a planta baixa de sua contrução. </p>
 
 								</div>
 
@@ -568,7 +568,7 @@
 
 							<figure>
 
-								<img src="images/portfolio-11.jpg" class="img-responsive cursor" alt="portfolio-2">
+								<img src="images/WhatsApp%20Image%202020-12-01%20at%2018.26.49.jpeg" class="img-responsive cursor" alt="portfolio-2">
 
 							</figure>
 
@@ -680,7 +680,7 @@
 
 						<div class="numbertext">8 / 8</div>
 
-						<img src="images/portfolio-6.jpg" alt="portfolio-8">
+						<img src="images/WhatsApp%20Image%202020-12-01%20at%2018.26.49.jpeg" alt="portfolio-8">
 
 					</div>
 
@@ -700,7 +700,7 @@
 
 			<div class="chevron" align="center">
 
-				<button type="button" class="btn" onClick="location.href='https://api.whatsapp.com/send?phone=5511962691619&text=Olá%20William,%20gostaria%20de%20fazer%20um%20orçamento'">Ver orçamento no Whatsapp</button>
+				<button type="button" class="btn" onClick="location.href='https://api.whatsapp.com/send?phone=5511962691619&text=Olá,%20gostaria%20de%20fazer%20um%20orçamento'">Ver orçamento no Whatsapp</button>
 
 				<!--<a href="">Ver Portifólio</a>-->
 
@@ -854,8 +854,6 @@
 
 							<li data-target="#carousel-example-multi" data-slide-to="0" class="active"></li>
 
-							
-
 						</ol>
 
 						<!--/.Indicators-->
@@ -910,7 +908,7 @@
 
 													</a>-->
 
-													<a href="">
+													<a href="https://api.whatsapp.com/send?phone=5511962691619&text=Olá,%20vim%20pelo%20site,%20pode%20conversar%20agora?">
 
 														<i class="fab fa-whatsapp"></i>
 
@@ -1026,7 +1024,7 @@
 
 							<span>R. Zacarias Antonio da Silva, 53, Sala 2G, Jardim Nomura, Cotia, 06.716-700, Telefone (11) 96269-1619</span>
 
-							<h5><a href="mailto:websiteconst.com">info@websiteconst.com </a> <sub> / </sub><a href="www.websiteconst.com">websiteconst.com</a></h5>
+							<h5><a href="mailto:contato@projeplanengenharia.com.br">contato@projeplanengenharia.com.br </a> <sub> / </sub><a href="http://projeplanengenharia.com.br">projeplanengenharia.com.br</a></h5>
 
 							<span>
 
@@ -1048,7 +1046,7 @@
 
 								</a>
 
-							<a href="https://api.whatsapp.com/send?phone=5511962691619&text=Olá%20William,%20vim%20pelo%20site,%20pode%20conversar%20agora?">
+							<a href="https://api.whatsapp.com/send?phone=5511962691619&text=Olá,%20vim%20pelo%20site,%20pode%20conversar%20agora?">
 
 									<i class="fab fa-whatsapp-square"></i>
 
